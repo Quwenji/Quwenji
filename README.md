@@ -9,41 +9,41 @@
 
 ## 💼 My Work
 - 🚀 **Patron Roleplay**:
-  - **Discord**: [Hier beitreten]([https://discord.gg/your-discord-link](https://discord.gg/FRXmvTbgQt))
-  - **Forum**: [Hier stöbern]([https://forum.patronroleplay.com](https://de-forum.patron-rp.site/index.php))
+  - **Discord**: [Hier beitreten](https://discord.gg/FRXmvTbgQt)
+  - **Forum**: [Hier stöbern](https://de-forum.patron-rp.site/index.php)
 - 🌟 **Projekte**: Entwicklung und Pflege von maßgeschneiderten Roleplay-Websites und Admin-Tools.  
-- 🔧 **Skillset**:
-  - **Backend:** PHP (inkl. Laravel-Grundlagen)
-  - **Frontend:** HTML5, CSS3, JavaScript (Vanilla, ES6+)
-  - **Datenbanken:** MySQL, SQLite
 
 ---
 
-## 📈 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quwenji&show_icons=true&theme=radical)
+## 🔧 My Skillset
+### Backend:
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 🌟 Skills & Tools:
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql)
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quwenji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quwenji&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Currently Learning:
-- **JavaScript Frameworks**: React, Vue.js
-- **Version Control**: Git, GitHub
+## 🎯 Currently Learning
+- **JavaScript Frameworks**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
 - **API Development**: RESTful APIs
 
 ---
 
-## 💬 Let's Connect:
-- 🌐 **Website:** [Patron Roleplay](https://de-forum.patron-rp.site/index.php)
-- 📧 **Email:** quwenji1@gmail.com
-- 💬 **Discord:** quwenji
+## 🌟 Let's Connect:
+- 🌐 **Website**: [Patron Roleplay](https://de-forum.patron-rp.site/index.php)  
+- 📧 **Email**: quwenji1@gmail.com  
+- 💬 **Discord**: `quwenji`  
 
 ---
 
