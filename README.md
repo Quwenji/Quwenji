@@ -44,7 +44,7 @@
 - 🌐 **Website:** [Patron Roleplay](https://de-forum.patron-rp.site/index.php)
 - 📧 **Email:** quwenji1@gmail.com
 - 💬 **Discord:** quwenji
-- 🖋️ **Forum:** [Hier schreiben]([https://forum.patronroleplay.com](https://de-forum.patron-rp.site/index.php))
+- 🖋️ **Forum:** [Hier schreiben]((https://de-forum.patron-rp.site/index.php))
 
 ---
 
