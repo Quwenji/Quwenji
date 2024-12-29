@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Quwenji!
 
 ## 🌌 Welcome to My World  
-🎮 **Roleplay Enthusiast**: Projektmanager bei [Patron Roleplay](https://discord.gg/FRXmvTbgQt)  
+🎮 **Roleplay Enthusiast**: Leidenschaft für immersive Geschichten  
 💻 **Web Developer**: PHP, JavaScript, HTML, CSS – Alles, was Websites lebendig macht  
 🎧 **Musikliebhaber**: Tauche in meine [Spotify Playlist](https://open.spotify.com/playlist/4oryQukeSuIhA4lVIjtfwE?si=c40c981658384b80) ein  
 
@@ -11,13 +11,12 @@ _"Die Welt ist, was du daraus machst."_
 ---
 
 ## 💼 My Work  
-- 🚀 **Patron Roleplay**  
-  - **Discord**: [Beitreten](https://discord.gg/FRXmvTbgQt)  
-  - **Forum**: [Entdecken](https://de-forum.patron-rp.site/index.php)  
-
 - 🌟 **Projekte**:  
-  - Entwicklung maßgeschneiderter Admin-Tools für Rollenspiel-Projekte  
-  - Pflege von Roleplay-Websites  
+  - Entwicklung maßgeschneiderter Tools und Websites  
+  - Pflege von Webprojekten auf [mystates.de](https://mystates.de) und [devforgehq.com](https://devforgehq.com)  
+
+*"Design is not just what it looks like and feels like. Design is how it works."*  
+– Steve Jobs  
 
 ---
 
@@ -48,6 +47,9 @@ _"Die Welt ist, was du daraus machst."_
 
 - 📡 **API Development**: RESTful APIs  
 
+*"Innovation distinguishes between a leader and a follower."*  
+– Steve Jobs  
+
 ---
 
 ## 🎧 My Spotify Playlist  
@@ -67,7 +69,7 @@ _"Suche zwischen den Zeilen"_ 🌀
 ---
 
 ## 🌟 Let's Connect  
-- 🌐 **Website**: [Patron Roleplay](https://de-forum.patron-rp.site/index.php)  
+- 🌐 **Websites**: [Mystates](https://mystates.de), [DevForgeHQ](https://devforgehq.com)  
 - 📧 **Email**: quwenji1@gmail.com  
 - 💬 **Discord**: `quwenji`  
 
