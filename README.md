@@ -69,7 +69,7 @@ _"Suche zwischen den Zeilen"_ 🌀
 ---
 
 ## 🌟 Let's Connect  
-- 🌐 **Websites**: [Mystates](https://mystates.de), [DevForgeHQ](https://devforgehq.com)  
+- 🌐 **Websites**: [Mystates](https://mystates.de), [DevStudioHQ](https://devstudiohq.com)  
 - 📧 **Email**: quwenji1@gmail.com  
 - 💬 **Discord**: `quwenji`  
 
