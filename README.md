@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Quwenji!
 
 ## 🌌 Welcome to My World  
-🎮 **Roleplay Enthusiast**: Leidenschaft für immersive Geschichten  
+🎮 **Gaming Enthusiast**: Leidenschaft für immersive Geschichten  
 💻 **Web Developer**: PHP, JavaScript, HTML, CSS – Alles, was Websites lebendig macht  
 🎧 **Musikliebhaber**: Tauche in meine [Spotify Playlist](https://open.spotify.com/playlist/4oryQukeSuIhA4lVIjtfwE?si=c40c981658384b80) ein  
 
