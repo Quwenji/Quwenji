@@ -13,7 +13,7 @@ _"Die Welt ist, was du daraus machst."_
 ## 💼 My Work  
 - 🌟 **Projekte**:  
   - Entwicklung maßgeschneiderter Tools und Websites  
-  - Pflege von Webprojekten auf [mystates.de](https://mystates.de) und [devforgehq.com](https://devforgehq.com)  
+  - Pflege von Webprojekten auf [mystates.de](https://mystates.de) und [devstudiohq.com](https://devstudiohq.com)  
 
 *"Design is not just what it looks like and feels like. Design is how it works."*  
 – Steve Jobs  
