@@ -1,7 +1,3 @@
-Hier ist die überarbeitete Version — Websites raus, Design aufgeräumt:
-
----
-
 # Hi there 👋, I'm Quwenji!
 
 > *"Die Welt ist, was du daraus machst."*
